@@ -1,5 +1,5 @@
 
-### Technologies 
+### Tools 
 - Jenkins
 - Git bash
 - Maven build tool
